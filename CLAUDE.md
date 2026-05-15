@@ -9,6 +9,7 @@ This is a learning repository with standalone exercises organized by language:
 - **HTML/** — 32+ projects: front-end design, forms, layouts, CSS animations
 - **JavaScript/** — 50+ projects: algorithms, interactive web apps, utilities
 - **Python/** — 11 projects: algorithms, data structures, OOP
+- **SQL/** — Database practice with SQL scripts
 
 Projects are standalone exercises with no unified build system.
 
